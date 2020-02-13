@@ -1,0 +1,4 @@
+# Changelog
+
+### Added
+- Initial release
